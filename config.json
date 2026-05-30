@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildarse",
+        "uuid": 6999392,
+        "checksum": "fxiznb"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
